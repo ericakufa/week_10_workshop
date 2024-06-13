@@ -1,0 +1,3 @@
+pacman::p_load(remotes, tidyverse)
+setwd("/Users/Admin/Documents/R_masterclass/week_10")  
+git init 

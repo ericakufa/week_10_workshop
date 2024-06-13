@@ -1,0 +1,6 @@
+"0","value_box("
+"0","  title = ""Total deaths"","
+"0","  value = total_deaths,"
+"0","  #showcase = bsicons::bs_icon(""clipchart""),"
+"0","  theme = value_box_theme(bg = ""#3f71ab"")"
+"0",")"
